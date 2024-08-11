@@ -1,0 +1,5 @@
+Simple ALU 
+from Set-Reset Latch
+to Addition module 
+to 4 bit Addition module 
+to Subtraction
